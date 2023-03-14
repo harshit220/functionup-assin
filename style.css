@@ -144,6 +144,10 @@ p {
   position: relative;
   left: 150px;
 }
+.button-primary{
+  text-decoration: none;
+  color: #fff;
+}
 button {
   outline: none;
   border: none;
